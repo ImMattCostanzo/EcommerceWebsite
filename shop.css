@@ -54,4 +54,18 @@ footer{
     color: white;
   }
   
+   /* Footer Styling */
+   footer{
+    text-align:center;
+    font-family: cursive;
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+    
+  }
   
+  /* Footer Image Resizing */
+  .footerImg{
+    max-width: 30px;
+    max-height: 30px;
+  }
